@@ -23,7 +23,8 @@ def toJSON(elements):
 def get_checkins(ID, driver, count):
     driver.get("http://www.dianping.com/member/" + str(ID) + "/checkin")
     pageno = count/20 + 1
-    if pageno > 400: pageno = 400
+    if pageno > 400:
+        pageno = 400
     for i in range(1, pageno):
         if i % 5 == 0:
             print 'checkin,'+str(i)+'/'+str(pageno)
@@ -40,7 +41,8 @@ def get_checkins(ID, driver, count):
 
     name_raw = []
     for one in name_rawraw:
-        if 'shop' in one.get_attribute('href'):name_raw.append(one)
+        if 'shop' in one.get_attribute('href'):
+            name_raw.append(one)
     
     shopID = []
     places = []

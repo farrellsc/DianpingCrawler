@@ -49,8 +49,10 @@ def get_reviews(ID, driver):
             temp = []
             temp.append(nameId_raw[i].get_attribute('href').split('/')[-1])
             temp.append(nameId_raw[i].text)
-            try:temp.append(int(star_raw[i].get_attribute('class')[-2:]))
-            except:temp.append(-1)
+            try:
+                temp.append(int(star_raw[i].get_attribute('class')[-2:]))
+            except:
+                temp.append(-1)
             temp.append(comment_raw[i].text)
             temp.append(translate_review_time(date_raw[i].text))
             reviews.reviews.append(temp)
