@@ -1,0 +1,45 @@
+1491527395759	geckodriver	INFO	Listening on 127.0.0.1:47591
+1491527397009	geckodriver	INFO	Listening on 127.0.0.1:37303
+1491527398295	geckodriver	INFO	Listening on 127.0.0.1:44353
+1491527601723	geckodriver	INFO	Listening on 127.0.0.1:37446
+1491527602718	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.YLzYHNwBhvmP
+1491527602720	geckodriver::marionette	INFO	Starting browser /opt/firefox46/firefox
+1491527602728	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39580
+1491527603448	Marionette	INFO	Listening on port 39580
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.8d056d434484b1d6ae51.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+
+(firefox:4809): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4809): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4809): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4809): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4809): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1492254766612	geckodriver	INFO	Listening on 127.0.0.1:51496
+1492254767591	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.XWkvIYlOT0nQ
+1492254767592	geckodriver::marionette	INFO	Starting browser /opt/firefox46/firefox
+1492254767596	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59619
+1492254768797	Marionette	INFO	Listening on port 59619
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.8d056d434484b1d6ae51.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+
+(firefox:1867): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:1867): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:1867): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1492303446584	geckodriver	INFO	Listening on 127.0.0.1:45206
+1492303447575	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.4YZjhUG5CltJ
+1492303447578	geckodriver::marionette	INFO	Starting browser /opt/firefox46/firefox
+1492303447589	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39679
+1492303448283	Marionette	INFO	Listening on port 39679
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.8d056d434484b1d6ae51.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+
+(firefox:8861): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8861): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8861): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8861): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed

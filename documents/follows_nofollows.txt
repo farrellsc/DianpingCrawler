@@ -1,0 +1,189 @@
+<html class=""><head><script src="//www.dpfile.com/s/j/app/user/comm/lazyload.min.608ae251446f7a5b2938b3df525db505.js" async=""></script><script src="//www.dpfile.com/x_x/version.min.v1484902330679.js" async=""></script>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>dpuser_01375107842的好友</title>
+<script>
+    document.documentElement.className=location.hash?'J_H':'';
+    var G_rtop=+new Date,
+        _gaq=[
+        ['_setAccount','UA-464026-1'],
+        ['_addOrganic','soso','w'],
+        ['_addOrganic','sogou','query'],
+        ['_addOrganic','yodao','q'],
+        ['_addOrganic','bing','q'],
+        ['_addOrganic','360','q'],
+        ['_addOrganic','gougou','search'],
+        ['_setDomainName', '.dianping.com']
+        ,['_setAllowHash', false]
+        
+        ],
+        dpga=function(key){_gaq.push(['_trackPageview', key||''])},
+        pageTracker={_trackPageview:dpga},
+        _hip=[
+            ['_setPageId', 61],
+            ['_setCityId', 1],
+            ['_setShopType', 0],
+            ['_setPVInitData', {p_render:+(new Date)-G_rtop}]
+        ];
+</script>
+<script>(function(n){var e;e="//catdot.dianping.com/broker-service/api/js",n.onerror=function(n,o,r){var i=encodeURIComponent,t=+new Date();(new Image).src=e+"?error="+i(n)+"&file="+i(o)+"&line="+i(r)+"&timestamp="+t}})(window);</script>
+<link rel="Shortcut Icon" href="//www.dpfile.com/s/res/favicon.5ff777c11d7833e57e01c9d192b7e427.ico" type="image/x-icon">
+<link rel="stylesheet" href="//www.dpfile.com/s/c/base.user.min.d7734c130b3b84280e9396775a909053.css" type="text/css">
+<link rel="stylesheet" href="//www.dpfile.com/s/c/user/home.min.79ea2da2d9eb53864121dc2037030ed6.css" type="text/css">
+	<link rel="stylesheet" href="//www.dpfile.com/s/c/user/friends.min.4c1ce928a3b1203811421ba52bbca6e6.css" type="text/css">
+	<link class="J_skincss" rel="stylesheet" href="//www.dpfile.com/s/c/user/skins/default/skin.min.64f8e363ff536a52e2215f6784e3db0f.css" type="text/css">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+
+
+</head>
+<body>
+
+<div class="toolbar-box">
+    <div class="toolbar">
+        <a href="http://www.dianping.com" class="bar-logo" title="大众点评网" onclick="pageTracker._trackPageview('dp_head_logo_shanghai_ver2');"><strong>大众点评网 dianping.com</strong></a>
+        <div class="quick-menu">
+        <ul>
+<li><a href="http://www.dianping.com" title="点评网首页" class="item" onclick="pageTracker._trackPageview('dp_head_index_home_shanghai_ver2');">点评网首页</a></li>
+<li><a href="http://www.dianping.com/reg" rel="nofollow" title="快速注册" class="item" onclick="pageTracker._trackPageview('dp_head_reg_shanghai_ver2');">快速注册</a></li>
+<li><a href="http://www.dianping.com/login" rel="nofollow" title="登录" class="item" onclick="pageTracker._trackPageview('dp_head_login_shanghai_ver2');">登录</a></li>
+<li><a href="http://www.dianping.com/events/m/index.htm" title="手机版" class="item" onclick="pageTracker._trackPageview('dp_head_mobile_shanghai_ver2');">手机版</a>
+</li>
+<li class="drop-wrap"><a href="http://www.dianping.com" title="大众点评网" class="item" onclick="pageTracker._trackPageview('dp_head_index_shanghai_ver2');">大众点评网<i class="quick-arrow"></i></a>
+<ul class="sub-menu" data-ga-show="dp_test_head_index_shanghai_ver2">
+<li><a href="http://s.dianping.com/shanghai/group" title="社区" onclick="pageTracker._trackPageview('dp_head_index_group_shanghai_ver2');">社区</a></li>
+<li><a href="http://t.dianping.com/shanghai" title="团购" onclick="pageTracker._trackPageview('dp_head_index_tuan_shanghai_ver2');">团购</a></li>
+<li><a href="http://www.dianping.com/promo/shanghai" title="优惠券" onclick="pageTracker._trackPageview('dp_head_index_promo_shanghai_ver2');">优惠券</a></li>
+<li><a href="http://q.dianping.com" title="签到" onclick="pageTracker._trackPageview('dp_head_index_qiandao_shanghai_ver2');">签到</a></li>
+<li class="menu-line"><a href="http://www.dianping.com/help" title="帮助" onclick="pageTracker._trackPageview('dp_head_help_shanghai_ver2');">帮助</a></li>
+</ul>
+</li>
+</ul>
+
+<script type="text/neuron-tpl" id="J_tpl-msg"><ul class="sub-menu sub-message" data-ga-show="dp_test_head_msg_shanghai_ver2"><?js
+it.forEach(function(item,i){
+var abbr=it.ENUM[item.type],cls=i===0?' class="first"':''; 
+?><li@{cls}><a href="@{item.link}" onclick="dpga('dp_head_notice_@{abbr}_shanghai_ver2')" data-type="@{item.type}"><em class="col-digit">@{item.count}</em>@{item.text}</a></li><?js
+});
+?><li class="menu-line"><a class="ignore" href="#" onclick="dpga('dp_head_notice_ignore_shanghai_ver2')">忽略</a></li></ul>
+</script>
+
+</div>
+</div>
+</div>
+
+
+<div class="wrapper">
+<!--header-->
+	<div class="header-box">
+		<div class="home-header">
+			<div class="header-nav">
+				<div class="pic-txt head-user">
+					<div class="pic">
+						<a href="/member/79074932" title=""><img src="https://p0.meituan.net/userheadpic/burger.png%40120w_120h_1e_1c_1l" alt=""></a>
+					</div>
+					<div class="txt">
+						<div class="tit">
+                            <h2 class="name">dpuser_01375107842</h2>
+                            <div class="vip">
+                            </div>
+						    <div class="user-micro-btn">
+							 		<span class="micro-btn"><a href="javascript:;" onclick="pageTracker._trackPageview('dp_mypage_follow');" data-t="0" title="加关注" class="btn-txt J_follow"><strong>+ </strong>关注</a></span>
+							 		<span class="micro-btn-ash"><a href="/msg/send/79074932" onclick="pageTracker._trackPageview('dp_mypage_msg');" title="发私信" class="btn-txt">发私信</a></span>
+							 		
+						    </div>
+						</div>
+						<div class="user-info col-exp">
+							<span title="贡献值19" class="user-rank-rst urr-rank1"></span>
+							<span class="user-groun">上海</span>
+							<span id="J_usertag">
+							</span>
+						</div>
+						<!--导航-->
+						<div class="nav">
+							<ul>
+								<li><a href="/member/79074932" onclick="pageTracker._trackPageview('dp_mypage_home');" title="" class="col-link">首页</a></li>
+								<li><a href="/member/79074932/reviews" onclick="pageTracker._trackPageview('dp_mypage_review');" title="" class="col-link">点评(2)</a></li>
+								<li><a href="/member/79074932/wishlists" onclick="pageTracker._trackPageview('dp_mypage_wishlist');" title="" class="col-link">收藏(15)</a></li>
+								<li><a href="/member/79074932/checkin" onclick="pageTracker._trackPageview('dp_mypage_checkin');" title="" class="col-link">签到(8)</a></li>
+								<li><a href="/member/79074932/photos/album" onclick="pageTracker._trackPageview('dp_mypage_pic');" title="" class="col-link">图片(0)</a></li>
+								<li><a href="/member/79074932/mylists" onclick="pageTracker._trackPageview('dp_mypage_mylist');" title="" class="col-link">榜单(0)</a></li>
+								<li><a href="/member/79074932/groups" onclick="pageTracker._trackPageview('dp_mypage_post');" title="" class="col-link">帖子(0)</a></li>
+							</ul>
+							<a class="nav-shiji" href="/vdper/index">
+								<i class="nav-shiji-icon"></i>
+							</a>
+						</div>
+						<!--导航 end-->
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--header end-->
+	<div class="container-box pages p-friends">
+		<div class="container">
+
+	
+		<div class="main-w mw-empty visitor-empty">
+		
+			<!--tabs 点评 屏蔽点评-->
+			<div class="modebox p-tabs-box">
+				<div class="tabs">
+					<a class="cur" title="" href="/member/79074932/follows">关注(0)</a>
+					<em class="line">|</em>
+					<a title="" href="/member/79074932/fans">粉丝(1)</a>
+				</div>
+			</div>
+			<!--主人态start -->
+			
+				<div class="modebox empty">
+					<div>
+						<div class="pic"><i class="p-icon pi-friends"></i></div>
+						<div class="txt">
+							<p>暂时还没有任何关注</p>
+						</div>
+					</div>
+				</div>
+		</div>
+	<!--end of ollowList?? && followList?size gt 0 -->
+      		</div>
+	</div>
+</div>
+
+<div class="footer footer-static">
+  <ul>
+    <li><a target="_blank" href="http://www.dianping.com/aboutus" rel="nofollow">关于大众点评</a>|</li>
+    <li><a target="_blank" href="http://s.dianping.com/topic/2815561" rel="nofollow">诚信公约</a>|</li>
+    <li><a target="_blank" href="http://www.dianping.com/help" rel="nofollow">网站帮助</a>|</li>
+    <li><a target="_blank" href="http://www.dianping.com/business/" rel="nofollow">推广服务</a>|</li>
+    <li><a target="_blank" href="http://www.dianping.com/aboutus/media" rel="nofollow">媒体报道</a>|</li>
+    <li><a target="_blank" href="http://careers.dianping.com" rel="nofollow">人才招聘</a>|</li>
+    <li><a target="_blank" href="http://www.dianping.com/forum" rel="nofollow">站务论坛</a>|</li>
+    <li><a target="_blank" href="http://www.dianping.com/contactus" rel="nofollow">联系我们</a>|</li>
+    <li><a target="_blank" href="http://developer.dianping.com" rel="nofollow">开发者</a>|</li>
+    <li><a target="_blank" href="https://developer.meituan.com/?applyFrom=dianping_c_pc_busines" rel="nofollow" onclick="pageTracker._trackPageview('dianping_c_pc_busines');_hip.push(['mv', { module: 'dianping_c_pc_busines', action: 'click'}])">聚宝盆餐饮开放平台</a>|</li>
+    <li><a target="_blank" href="http://www.meituan.com">美团网</a>|</li>
+    <li><a target="_blank" href="http://i.meituan.com/client/meituan">美团下载</a></li>
+  </ul>      
+  <p>©2003-2017 dianping.com, All Rights Reserved.　　本站发布的所有内容，未经许可，不得转载，详见<a href="http://www.dianping.com/aboutus/zhishichanquan.html" rel="nofollow">《知识产权声明》</a>。</p>      
+</div>
+<script>
+        var __loaderConfig={appBase:'s/j/app/',libBase:'lib/1.0/',server:'www.dpfile.com'};
+</script>
+<script src="//www.dpfile.com/lib/1.0/neuron-active.min.719ede6914677bb148848d46c52bcf6f.js"></script>        <script>
+            DP.data({cityEnName:'shanghai'});
+            DP.load("//www.dpfile.com/x_x/version.min.v1484902330679.js");
+            DP.require('Main::header');
+        </script>
+        <script></script>
+<script>
+	DP.data({
+		userId:0,
+		userNickName:'',
+		userFace:'',
+		memberId: 79074932,
+		"jsonp-domain" : "http://www.dianping.com"
+	});
+	DP.require('User::friend');
+	pageTracker._trackPageview("member/following/all/79074932");
+</script>
+<div style="position: absolute; visibility: hidden; z-index: 3000; top: 0px;"><div class="pop_carte"><div class="cartebg_top"></div><div class="cartecont J_cont"><div class="J_load">正在加载,请稍候...</div><div class="cartebg"></div></div><div class="cartebg_botm"></div><span class="J_arrow poparrow arrow-b"></span></div></div></body></html>

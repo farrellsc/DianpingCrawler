@@ -1,0 +1,2475 @@
+Wed Mar 08 18:11:49 2017
+869608176 main  
+'decimal' codec can't encode character u'\u5c0f' in position 1: invalid decimal Unicode string
+
+Fri Apr  7 01:44:41 2017
+977543238 main  
+list index out of range
+
+Fri Apr  7 02:18:20 2017
+7462824 main  
+list index out of range
+
+Fri Apr  7 03:49:42 2017
+59208296 main  
+list index out of range
+
+Fri Apr  7 03:55:19 2017
+31600929 main  
+list index out of range
+
+Fri Apr  7 04:02:56 2017
+84017577 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Fri Apr  7 05:54:45 2017
+1192167 main  
+list index out of range
+
+Fri Apr  7 06:09:33 2017
+73859066 main  
+list index out of range
+
+Fri Apr  7 07:20:30 2017
+184487732 main  
+Message: Error loading page
+
+
+Fri Apr  7 08:38:14 2017
+155435354 main  
+list index out of range
+
+Fri Apr  7 09:14:29 2017
+4154510 main  
+list index out of range
+
+Fri Apr  7 10:06:19 2017
+17325957 main  
+list index out of range
+
+Fri Apr  7 10:14:53 2017
+829839560 main  
+list index out of range
+
+Fri Apr  7 10:35:28 2017
+774706902 main  
+list index out of range
+
+Fri Apr  7 10:36:04 2017
+35551638 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Fri Apr  7 11:30:04 2017
+33921247 main  
+list index out of range
+
+Fri Apr  7 11:41:56 2017
+1729460 main  
+list index out of range
+
+Fri Apr  7 11:46:31 2017
+26766564 main  
+list index out of range
+
+Fri Apr  7 11:56:09 2017
+2269303 main  
+list index out of range
+
+Fri Apr  7 12:07:32 2017
+696356085 main  
+list index out of range
+
+Fri Apr  7 12:34:08 2017
+5661136 main  
+list index out of range
+
+Fri Apr  7 13:02:14 2017
+33459065 main  
+list index out of range
+
+Fri Apr  7 13:12:14 2017
+91675111 main  
+list index out of range
+
+Fri Apr  7 13:14:04 2017
+45871794 main  
+list index out of range
+
+Fri Apr  7 13:24:20 2017
+48348007 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Fri Apr  7 14:12:51 2017
+1038957167 main  
+list index out of range
+
+Fri Apr  7 14:36:48 2017
+787848710 main  
+list index out of range
+
+Fri Apr  7 14:58:23 2017
+1781618 main  
+list index out of range
+
+Fri Apr  7 15:01:37 2017
+21607519 main  
+list index out of range
+
+Fri Apr  7 15:07:41 2017
+252365 main  
+list index out of range
+
+Fri Apr  7 15:40:46 2017
+3952701 main  
+list index out of range
+
+Fri Apr  7 15:45:54 2017
+53179722 main  
+list index out of range
+
+Fri Apr  7 16:33:47 2017
+6418623 main  
+list index out of range
+
+Fri Apr  7 16:55:16 2017
+8648870 main  
+list index out of range
+
+Fri Apr  7 17:24:10 2017
+5852134 main  
+list index out of range
+
+Fri Apr  7 17:27:03 2017
+22253765 main  
+list index out of range
+
+Fri Apr  7 17:28:09 2017
+2052514 main  
+list index out of range
+
+Fri Apr  7 17:50:12 2017
+7810612 main  
+list index out of range
+
+Fri Apr  7 18:00:33 2017
+23299860 main  
+Message: Error loading page
+
+
+Fri Apr  7 18:30:30 2017
+839854 main  
+Message: Error loading page
+
+
+Fri Apr  7 18:54:11 2017
+62824019 main  
+list index out of range
+
+Fri Apr  7 19:37:11 2017
+52376378 main  
+list index out of range
+
+Fri Apr  7 19:54:23 2017
+880236268 main  
+list index out of range
+
+Fri Apr  7 20:40:22 2017
+39174380 main  
+list index out of range
+
+Fri Apr  7 20:41:07 2017
+1108198906 main  
+list index out of range
+
+Fri Apr  7 21:10:19 2017
+2276336 main  
+list index out of range
+
+Fri Apr  7 21:40:10 2017
+3514482 main  
+list index out of range
+
+Sat Apr  8 00:01:13 2017
+816976295 main  
+list index out of range
+
+Sat Apr  8 00:23:59 2017
+5295881 main  
+list index out of range
+
+Sat Apr  8 00:48:33 2017
+444135 main  
+list index out of range
+
+Sat Apr  8 00:57:43 2017
+42199153 main  
+list index out of range
+
+Sat Apr  8 01:19:05 2017
+1114279511 main  
+list index out of range
+
+Sat Apr  8 01:27:42 2017
+91996216 main  
+list index out of range
+
+Sat Apr  8 02:21:06 2017
+12332475 main  
+list index out of range
+
+Sat Apr  8 03:48:39 2017
+59700393 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Sat Apr  8 04:06:45 2017
+762882621 main  
+list index out of range
+
+Sat Apr  8 04:44:56 2017
+749899 main  
+Message: Error loading page
+
+
+Sat Apr  8 04:45:15 2017
+646240174 main  
+Message: Error loading page
+
+
+Sat Apr  8 04:49:01 2017
+752155 main  
+Message: Error loading page
+
+
+Sat Apr  8 04:53:25 2017
+819918880 main  
+Message: Error loading page
+
+
+Sat Apr  8 04:55:30 2017
+2088287 main  
+Message: Error loading page
+
+
+Sat Apr  8 04:57:16 2017
+1943524 main  
+Message: Error loading page
+
+
+Sat Apr  8 05:01:01 2017
+933536769 main  
+list index out of range
+
+Sat Apr  8 05:05:42 2017
+48206538 main  
+Message: Error loading page
+
+
+Sat Apr  8 05:24:06 2017
+757847828 main  
+Message: Error loading page
+
+
+Sat Apr  8 05:26:22 2017
+10289704 main  
+Message: Error loading page
+
+
+Sat Apr  8 05:40:38 2017
+26942400 main  
+Message: Error loading page
+
+
+Sat Apr  8 05:42:39 2017
+1861823 main  
+Message: Error loading page
+
+
+Sat Apr  8 05:43:45 2017
+8199725 main  
+list index out of range
+
+Sat Apr  8 05:58:10 2017
+766443136 main  
+Message: Error loading page
+
+
+Sat Apr  8 06:01:07 2017
+4761036 main  
+Message: Error loading page
+
+
+Sat Apr  8 06:07:40 2017
+69331381 main  
+Message: Error loading page
+
+
+Sat Apr  8 06:09:09 2017
+62802604 main  
+Message: Error loading page
+
+
+Sat Apr  8 06:11:49 2017
+91834925 main  
+Message: Error loading page
+
+
+Sat Apr  8 06:16:07 2017
+63772 main  
+Message: Error loading page
+
+
+Sat Apr  8 06:19:17 2017
+915385228 main  
+list index out of range
+
+Sat Apr  8 06:23:08 2017
+2085669 main  
+Message: Error loading page
+
+
+Sat Apr  8 06:24:21 2017
+289537 main  
+Message: Error loading page
+
+
+Sat Apr  8 06:26:12 2017
+15088445 main  
+Message: Error loading page
+
+
+Sat Apr  8 07:07:41 2017
+157068628 main  
+list index out of range
+
+Sat Apr  8 07:09:44 2017
+757693906 main  
+list index out of range
+
+Sat Apr  8 07:11:10 2017
+891747442 main  
+list index out of range
+
+Sat Apr  8 07:16:49 2017
+24887273 main  
+list index out of range
+
+Sat Apr  8 07:20:34 2017
+6519289 main  
+Message: Error loading page
+
+
+Sat Apr  8 07:41:05 2017
+16568170 main  
+Message: Error loading page
+
+
+Sat Apr  8 07:48:35 2017
+54824695 main  
+Message: Error loading page
+
+
+Sat Apr  8 07:52:23 2017
+6093645 main  
+Message: Error loading page
+
+
+Sat Apr  8 07:56:41 2017
+21069355 main  
+Message: Error loading page
+
+
+Sat Apr  8 08:03:57 2017
+38468918 main  
+Message: Error loading page
+
+
+Sat Apr  8 08:06:09 2017
+131697900 main  
+Message: Error loading page
+
+
+Sat Apr  8 08:11:52 2017
+3028942 main  
+list index out of range
+
+Sat Apr  8 08:19:19 2017
+34905912 main  
+Message: Error loading page
+
+
+Sat Apr  8 08:38:38 2017
+31425448 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Sat Apr  8 09:00:53 2017
+56905460 main  
+list index out of range
+
+Sat Apr  8 09:02:31 2017
+17076 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Sat Apr  8 09:32:13 2017
+142742663 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Sat Apr  8 09:46:23 2017
+19266666 main  
+list index out of range
+
+Sat Apr  8 10:04:47 2017
+774456368 main  
+list index out of range
+
+Sat Apr  8 10:32:01 2017
+105743 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Sat Apr  8 10:47:15 2017
+17618691 main  
+list index out of range
+
+Sat Apr  8 10:52:58 2017
+1151891 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Sat Apr  8 10:56:45 2017
+402220 main  
+list index out of range
+
+Sat Apr  8 11:33:18 2017
+10483952 main  
+list index out of range
+
+Sat Apr  8 11:47:15 2017
+738025 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Sat Apr  8 12:06:29 2017
+906375140 main  
+list index out of range
+
+Sat Apr  8 12:46:14 2017
+20161499 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Sat Apr  8 12:47:07 2017
+882370412 main  
+list index out of range
+
+Sat Apr  8 13:02:47 2017
+888223305 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Sat Apr  8 13:22:00 2017
+54847540 main  
+list index out of range
+
+Sat Apr  8 14:35:21 2017
+970722368 main  
+list index out of range
+
+Sat Apr  8 14:44:06 2017
+8807108 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Sat Apr  8 14:47:35 2017
+876251770 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Sat Apr  8 14:48:50 2017
+929671408 main  
+list index out of range
+
+Sat Apr  8 14:53:16 2017
+172665358 main  
+list index out of range
+
+Sat Apr  8 15:00:47 2017
+23387433 main  
+list index out of range
+
+Sat Apr  8 16:00:39 2017
+196610596 main  
+list index out of range
+
+Sat Apr  8 16:45:53 2017
+863921575 main  
+list index out of range
+
+Sat Apr  8 19:08:48 2017
+33950956 main  
+list index out of range
+
+Sat Apr  8 19:35:05 2017
+13901994 main  
+list index out of range
+
+Sat Apr  8 19:42:22 2017
+13053154 main  
+list index out of range
+
+Sat Apr  8 20:08:37 2017
+208733677 main  
+list index out of range
+
+Sat Apr  8 21:37:35 2017
+1102655178 main  
+list index out of range
+
+Sat Apr  8 22:30:24 2017
+322334 main  
+list index out of range
+
+Sat Apr  8 23:23:46 2017
+1052627277 main  
+list index out of range
+
+Sat Apr  8 23:55:35 2017
+7811204 main  
+list index out of range
+
+Sun Apr  9 00:09:15 2017
+24284103 main  
+list index out of range
+
+Sun Apr  9 00:11:44 2017
+55821238 main  
+list index out of range
+
+Sun Apr  9 01:18:12 2017
+320582 main  
+list index out of range
+
+Sun Apr  9 02:20:26 2017
+29469659 main  
+list index out of range
+
+Sun Apr  9 02:22:24 2017
+4328675 main  
+list index out of range
+
+Sun Apr  9 02:26:58 2017
+53756 main  
+Message: Error loading page
+
+
+Sun Apr  9 02:47:00 2017
+101868008 main  
+Message: Error loading page
+
+
+Sun Apr  9 03:57:31 2017
+772936906 main  
+Message: Error loading page
+
+
+Sun Apr  9 04:50:37 2017
+833952293 main  
+Message: Error loading page
+
+
+Sun Apr  9 04:53:44 2017
+11739592 main  
+Message: Error loading page
+
+
+Sun Apr  9 04:54:24 2017
+828916420 main  
+Message: Error loading page
+
+
+Sun Apr  9 04:54:57 2017
+181093243 main  
+Message: Error loading page
+
+
+Sun Apr  9 04:55:39 2017
+810194010 main  
+Message: Error loading page
+
+
+Sun Apr  9 05:14:58 2017
+193731124 main  
+list index out of range
+
+Sun Apr  9 05:19:39 2017
+1075588616 main  
+list index out of range
+
+Sun Apr  9 05:57:48 2017
+4671922 main  
+Message: Error loading page
+
+
+Sun Apr  9 06:14:39 2017
+77751323 main  
+Message: Error loading page
+
+
+Sun Apr  9 06:16:17 2017
+13992659 main  
+list index out of range
+
+Sun Apr  9 06:47:38 2017
+2344409 main  
+Message: Error loading page
+
+
+Sun Apr  9 06:50:39 2017
+6630441 main  
+Message: Error loading page
+
+
+Sun Apr  9 06:52:21 2017
+687593 main  
+Message: Error loading page
+
+
+Sun Apr  9 06:54:12 2017
+4259139 main  
+Message: Error loading page
+
+
+Sun Apr  9 06:57:00 2017
+24740949 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Sun Apr  9 07:13:17 2017
+1844133 main  
+Message: Error loading page
+
+
+Sun Apr  9 07:14:41 2017
+44782742 main  
+Message: Error loading page
+
+
+Sun Apr  9 07:15:14 2017
+70009556 main  
+Message: Error loading page
+
+
+Sun Apr  9 07:24:43 2017
+861679380 main  
+Message: Error loading page
+
+
+Sun Apr  9 07:31:36 2017
+167860804 main  
+list index out of range
+
+Sun Apr  9 07:34:14 2017
+1363956 main  
+Message: Error loading page
+
+
+Sun Apr  9 08:16:50 2017
+721351683 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Sun Apr  9 08:58:13 2017
+1112870335 main  
+list index out of range
+
+Sun Apr  9 09:05:47 2017
+185355371 main  
+list index out of range
+
+Sun Apr  9 09:39:59 2017
+852691507 main  
+list index out of range
+
+Sun Apr  9 09:47:33 2017
+65003590 main  
+list index out of range
+
+Sun Apr  9 09:49:26 2017
+2779384 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Sun Apr  9 10:15:44 2017
+30955085 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Sun Apr  9 10:16:55 2017
+73324387 main  
+list index out of range
+
+Sun Apr  9 10:30:57 2017
+972489532 main  
+list index out of range
+
+Sun Apr  9 10:42:24 2017
+6082227 main  
+Message: Error loading page
+
+
+Sun Apr  9 10:45:55 2017
+53996595 main  
+Message: Error loading page
+
+
+Sun Apr  9 10:51:05 2017
+822635601 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Sun Apr  9 10:59:51 2017
+1026844681 main  
+list index out of range
+
+Sun Apr  9 11:23:47 2017
+2826228 main  
+list index out of range
+
+Sun Apr  9 11:38:03 2017
+20546945 main  
+list index out of range
+
+Sun Apr  9 11:46:23 2017
+47500696 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Sun Apr  9 11:47:23 2017
+377496 main  
+list index out of range
+
+Sun Apr  9 11:49:10 2017
+34090201 main  
+list index out of range
+
+Sun Apr  9 12:47:27 2017
+3677123 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Sun Apr  9 12:59:44 2017
+4597087 main  
+list index out of range
+
+Sun Apr  9 13:03:25 2017
+31961763 main  
+list index out of range
+
+Sun Apr  9 13:26:14 2017
+8586213 main  
+list index out of range
+
+Sun Apr  9 13:36:59 2017
+53114005 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Sun Apr  9 13:59:21 2017
+13073 main  
+list index out of range
+
+Sun Apr  9 14:19:53 2017
+785223 main  
+Message: Error loading page
+
+
+Sun Apr  9 14:31:21 2017
+54848004 main  
+Message: Error loading page
+
+
+Sun Apr  9 14:32:22 2017
+1303395 main  
+list index out of range
+
+Sun Apr  9 15:08:23 2017
+6379898 main  
+list index out of range
+
+Sun Apr  9 15:41:40 2017
+882407459 main  
+list index out of range
+
+Sun Apr  9 16:03:56 2017
+18210520 main  
+Message: Error loading page
+
+
+Sun Apr  9 16:04:28 2017
+34264633 main  
+Message: Error loading page
+
+
+Sun Apr  9 16:09:49 2017
+767422689 main  
+list index out of range
+
+Sun Apr  9 16:26:29 2017
+43640603 main  
+Message: Error loading page
+
+
+Sun Apr  9 16:39:44 2017
+100817975 main  
+Message: Error loading page
+
+
+Sun Apr  9 16:50:11 2017
+3042901 main  
+Message: Error loading page
+
+
+Sun Apr  9 16:57:57 2017
+111335300 main  
+Message: Error loading page
+
+
+Sun Apr  9 17:12:40 2017
+15682977 main  
+Message: Error loading page
+
+
+Sun Apr  9 17:16:55 2017
+62064082 main  
+Message: Error loading page
+
+
+Sun Apr  9 17:19:37 2017
+126184 main  
+Message: Error loading page
+
+
+Sun Apr  9 17:27:37 2017
+85866681 main  
+Message: Error loading page
+
+
+Sun Apr  9 17:33:59 2017
+1058524463 main  
+list index out of range
+
+Sun Apr  9 17:40:15 2017
+41330614 main  
+list index out of range
+
+Sun Apr  9 17:49:24 2017
+21041459 main  
+list index out of range
+
+Sun Apr  9 17:50:32 2017
+2705832 main  
+Message: Error loading page
+
+
+Sun Apr  9 18:17:38 2017
+13768547 main  
+Message: Error loading page
+
+
+Sun Apr  9 18:33:22 2017
+106796006 main  
+Message: Error loading page
+
+
+Sun Apr  9 18:57:42 2017
+791457044 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Sun Apr  9 18:59:12 2017
+4121091 main  
+list index out of range
+
+Sun Apr  9 19:58:10 2017
+845984880 main  
+list index out of range
+
+Sun Apr  9 20:51:14 2017
+107233608 main  
+Message: Error loading page
+
+
+Sun Apr  9 21:27:57 2017
+1020978144 main  
+list index out of range
+
+Sun Apr  9 21:50:38 2017
+765462407 main  
+Message: Error loading page
+
+
+Sun Apr  9 22:05:28 2017
+30614431 main  
+Message: Error loading page
+
+
+Sun Apr  9 22:30:14 2017
+24212672 main  
+list index out of range
+
+Sun Apr  9 22:42:11 2017
+191450322 main  
+Message: Error loading page
+
+
+Sun Apr  9 23:02:38 2017
+40599609 main  
+list index out of range
+
+Sun Apr  9 23:21:37 2017
+1110398322 main  
+list index out of range
+
+Sun Apr  9 23:24:35 2017
+8377648 main  
+list index out of range
+
+Mon Apr 10 00:41:34 2017
+1080090954 main  
+list index out of range
+
+Mon Apr 10 00:42:55 2017
+32417945 main  
+list index out of range
+
+Mon Apr 10 01:20:44 2017
+4214292 main  
+list index out of range
+
+Mon Apr 10 01:27:00 2017
+677584 main  
+list index out of range
+
+Mon Apr 10 01:32:08 2017
+3948692 main  
+list index out of range
+
+Mon Apr 10 01:32:42 2017
+757612865 main  
+list index out of range
+
+Mon Apr 10 01:45:36 2017
+175411082 main  
+list index out of range
+
+Mon Apr 10 02:24:08 2017
+721399711 main  
+list index out of range
+
+Mon Apr 10 02:33:39 2017
+815929152 main  
+list index out of range
+
+Mon Apr 10 02:51:29 2017
+878672997 main  
+list index out of range
+
+Mon Apr 10 02:56:23 2017
+143145275 main  
+list index out of range
+
+Mon Apr 10 03:19:40 2017
+54900050 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Mon Apr 10 04:06:41 2017
+2034794 main  
+list index out of range
+
+Mon Apr 10 04:14:48 2017
+665008360 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Mon Apr 10 04:20:14 2017
+981470313 main  
+list index out of range
+
+Mon Apr 10 04:22:16 2017
+141178404 main  
+list index out of range
+
+Mon Apr 10 04:27:09 2017
+171728884 main  
+list index out of range
+
+Mon Apr 10 05:13:56 2017
+111167 main  
+Message: Error loading page
+
+
+Mon Apr 10 05:15:43 2017
+791676908 main  
+Message: Error loading page
+
+
+Mon Apr 10 05:16:26 2017
+5426743 main  
+Message: Error loading page
+
+
+Mon Apr 10 05:41:57 2017
+817425857 main  
+list index out of range
+
+Mon Apr 10 06:11:39 2017
+859101161 main  
+list index out of range
+
+Mon Apr 10 07:02:00 2017
+63063696 main  
+list index out of range
+
+Mon Apr 10 08:34:03 2017
+120269 main  
+list index out of range
+
+Mon Apr 10 08:40:20 2017
+2224364 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Mon Apr 10 09:11:16 2017
+754430 main  
+list index out of range
+
+Mon Apr 10 09:31:13 2017
+193106813 main  
+Message: Error loading page
+
+
+Mon Apr 10 09:36:24 2017
+17820803 main  
+Message: Error loading page
+
+
+Mon Apr 10 09:46:21 2017
+3808949 main  
+Message: Error loading page
+
+
+Mon Apr 10 09:50:52 2017
+618110 main  
+list index out of range
+
+Mon Apr 10 10:07:16 2017
+6305729 main  
+Message: Error loading page
+
+
+Mon Apr 10 10:41:13 2017
+1067982359 main  
+list index out of range
+
+Mon Apr 10 11:01:56 2017
+33661 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Mon Apr 10 11:16:09 2017
+25639610 main  
+list index out of range
+
+Mon Apr 10 11:22:23 2017
+14615483 main  
+list index out of range
+
+Mon Apr 10 11:33:51 2017
+31973799 main  
+list index out of range
+
+Mon Apr 10 12:22:41 2017
+5321076 main  
+list index out of range
+
+Mon Apr 10 12:26:06 2017
+27266800 main  
+Message: Error loading page
+
+
+Mon Apr 10 12:28:52 2017
+532538526 main  
+Message: Error loading page
+
+
+Mon Apr 10 12:32:56 2017
+940237515 main  
+list index out of range
+
+Mon Apr 10 12:35:10 2017
+6519627 main  
+list index out of range
+
+Mon Apr 10 12:45:16 2017
+955497818 main  
+list index out of range
+
+Mon Apr 10 13:46:52 2017
+782328765 main  
+list index out of range
+
+Mon Apr 10 14:03:51 2017
+873058564 main  
+list index out of range
+
+Mon Apr 10 14:07:22 2017
+16562511 main  
+list index out of range
+
+Mon Apr 10 14:10:50 2017
+811577735 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Mon Apr 10 14:37:29 2017
+175988659 main  
+list index out of range
+
+Mon Apr 10 15:02:56 2017
+1099043457 main  
+list index out of range
+
+Mon Apr 10 15:04:53 2017
+842111734 main  
+list index out of range
+
+Mon Apr 10 15:14:53 2017
+8818079 main  
+list index out of range
+
+Mon Apr 10 17:07:42 2017
+178635245 main  
+list index out of range
+
+Mon Apr 10 17:34:40 2017
+6567397 main  
+list index out of range
+
+Mon Apr 10 18:22:59 2017
+274339 main  
+list index out of range
+
+Mon Apr 10 18:49:29 2017
+149019107 main  
+list index out of range
+
+Mon Apr 10 18:50:27 2017
+45645407 main  
+list index out of range
+
+Mon Apr 10 19:36:11 2017
+24832072 main  
+list index out of range
+
+Mon Apr 10 20:09:39 2017
+8756909 main  
+list index out of range
+
+Mon Apr 10 20:14:45 2017
+37088048 main  
+list index out of range
+
+Mon Apr 10 21:30:04 2017
+10471018 main  
+list index out of range
+
+Mon Apr 10 21:31:00 2017
+11312 main  
+list index out of range
+
+Mon Apr 10 21:47:17 2017
+948872218 main  
+list index out of range
+
+Mon Apr 10 21:49:56 2017
+7325856 main  
+list index out of range
+
+Mon Apr 10 22:47:54 2017
+8767933 main  
+list index out of range
+
+Mon Apr 10 23:11:49 2017
+302157065 main  
+list index out of range
+
+Tue Apr 11 00:16:24 2017
+4078727 main  
+list index out of range
+
+Tue Apr 11 00:18:17 2017
+846794280 main  
+list index out of range
+
+Tue Apr 11 01:37:31 2017
+771789 main  
+list index out of range
+
+Tue Apr 11 03:03:39 2017
+855984405 main  
+list index out of range
+
+Tue Apr 11 03:33:04 2017
+72129737 main  
+Message: Error loading page
+
+
+Tue Apr 11 03:35:40 2017
+844036982 main  
+list index out of range
+
+Tue Apr 11 03:42:06 2017
+3264291 main  
+Message: Error loading page
+
+
+Tue Apr 11 03:56:20 2017
+1094213895 main  
+list index out of range
+
+Tue Apr 11 04:22:35 2017
+183424955 main  
+list index out of range
+
+Tue Apr 11 04:36:21 2017
+6109732 main  
+list index out of range
+
+Tue Apr 11 04:45:49 2017
+676800760 main  
+list index out of range
+
+Tue Apr 11 04:54:29 2017
+883090678 main  
+list index out of range
+
+Tue Apr 11 05:22:31 2017
+849510646 main  
+list index out of range
+
+Tue Apr 11 05:46:32 2017
+2034609 main  
+Message: Error loading page
+
+
+Tue Apr 11 05:49:24 2017
+2010315 main  
+Message: Error loading page
+
+
+Tue Apr 11 05:51:55 2017
+56768962 main  
+Message: Error loading page
+
+
+Tue Apr 11 05:52:14 2017
+33616802 main  
+Message: Error loading page
+
+
+Tue Apr 11 05:53:20 2017
+11328686 main  
+Message: Error loading page
+
+
+Tue Apr 11 05:57:30 2017
+2876328 main  
+Message: Error loading page
+
+
+Tue Apr 11 06:05:49 2017
+23310975 main  
+Message: Error loading page
+
+
+Tue Apr 11 06:11:32 2017
+957834157 main  
+Message: Error loading page
+
+
+Tue Apr 11 06:15:18 2017
+1281714 main  
+Message: Error loading page
+
+
+Tue Apr 11 06:16:39 2017
+54486840 main  
+Message: Error loading page
+
+
+Tue Apr 11 06:18:21 2017
+858925417 main  
+Message: Error loading page
+
+
+Tue Apr 11 06:32:49 2017
+103941790 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Tue Apr 11 06:48:49 2017
+2104600 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Tue Apr 11 06:57:48 2017
+35128852 main  
+list index out of range
+
+Tue Apr 11 07:01:04 2017
+5311031 main  
+Message: Error loading page
+
+
+Tue Apr 11 07:06:31 2017
+80076060 main  
+Message: Error loading page
+
+
+Tue Apr 11 07:21:54 2017
+848113721 main  
+list index out of range
+
+Tue Apr 11 08:08:48 2017
+42141545 main  
+Message: Error loading page
+
+
+Tue Apr 11 08:11:55 2017
+113096648 main  
+Message: Error loading page
+
+
+Tue Apr 11 08:32:09 2017
+834024 main  
+Message: Error loading page
+
+
+Tue Apr 11 08:42:04 2017
+29329374 main  
+Message: Error loading page
+
+
+Tue Apr 11 09:03:09 2017
+530797 main  
+list index out of range
+
+Tue Apr 11 09:12:32 2017
+10611214 main  
+list index out of range
+
+Tue Apr 11 09:40:46 2017
+55771 main  
+list index out of range
+
+Tue Apr 11 09:51:21 2017
+519217468 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Tue Apr 11 09:59:09 2017
+49218268 main  
+list index out of range
+
+Tue Apr 11 10:12:21 2017
+797762795 main  
+list index out of range
+
+Tue Apr 11 10:14:36 2017
+663478571 main  
+list index out of range
+
+Tue Apr 11 10:21:30 2017
+8665116 main  
+list index out of range
+
+Tue Apr 11 10:47:21 2017
+759805119 main  
+list index out of range
+
+Tue Apr 11 11:07:22 2017
+769938495 main  
+list index out of range
+
+Tue Apr 11 11:21:39 2017
+324828 main  
+list index out of range
+
+Tue Apr 11 12:34:07 2017
+25678074 main  
+list index out of range
+
+Tue Apr 11 12:45:29 2017
+77706791 main  
+list index out of range
+
+Tue Apr 11 12:51:38 2017
+780978364 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Tue Apr 11 13:02:06 2017
+42955676 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Tue Apr 11 13:17:31 2017
+764538620 main  
+list index out of range
+
+Tue Apr 11 13:39:01 2017
+9213997 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Tue Apr 11 13:42:31 2017
+2235116 main  
+list index out of range
+
+Tue Apr 11 14:37:44 2017
+139165031 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Tue Apr 11 14:50:31 2017
+82870688 main  
+list index out of range
+
+Tue Apr 11 15:19:21 2017
+838106903 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Tue Apr 11 15:23:29 2017
+2050653 main  
+list index out of range
+
+Tue Apr 11 16:42:18 2017
+17766018 main  
+list index out of range
+
+Tue Apr 11 17:17:12 2017
+28046680 main  
+list index out of range
+
+Tue Apr 11 17:54:50 2017
+41394606 main  
+list index out of range
+
+Tue Apr 11 18:02:53 2017
+113217354 main  
+list index out of range
+
+Tue Apr 11 18:11:34 2017
+262516 main  
+list index out of range
+
+Tue Apr 11 18:21:29 2017
+6183438 main  
+list index out of range
+
+Tue Apr 11 19:36:07 2017
+54211092 main  
+list index out of range
+
+Tue Apr 11 20:26:15 2017
+17416030 main  
+list index out of range
+
+Tue Apr 11 21:05:03 2017
+23766591 main  
+list index out of range
+
+Tue Apr 11 21:37:24 2017
+159880940 main  
+list index out of range
+
+Tue Apr 11 21:46:11 2017
+18572056 main  
+list index out of range
+
+Tue Apr 11 22:19:21 2017
+20781862 main  
+list index out of range
+
+Tue Apr 11 22:57:01 2017
+1078952057 main  
+list index out of range
+
+Tue Apr 11 23:13:02 2017
+143767433 main  
+list index out of range
+
+Tue Apr 11 23:13:44 2017
+897713127 main  
+list index out of range
+
+Tue Apr 11 23:17:10 2017
+4474004 main  
+list index out of range
+
+Wed Apr 12 00:25:53 2017
+721429390 main  
+list index out of range
+
+Wed Apr 12 01:31:52 2017
+992703 main  
+list index out of range
+
+Wed Apr 12 02:00:07 2017
+470025003 main  
+list index out of range
+
+Wed Apr 12 04:00:48 2017
+766641805 main  
+list index out of range
+
+Wed Apr 12 04:12:53 2017
+1070076682 main  
+list index out of range
+
+Wed Apr 12 04:36:48 2017
+21937679 main  
+list index out of range
+
+Wed Apr 12 05:47:39 2017
+83209887 main  
+list index out of range
+
+Wed Apr 12 06:44:06 2017
+31313834 main  
+list index out of range
+
+Wed Apr 12 07:04:06 2017
+120288598 main  
+Message: Error loading page
+
+
+Wed Apr 12 07:05:01 2017
+795788261 main  
+Message: Error loading page
+
+
+Wed Apr 12 07:07:45 2017
+1075663424 main  
+Message: Error loading page
+
+
+Wed Apr 12 07:20:03 2017
+3270974 main  
+Message: Error loading page
+
+
+Wed Apr 12 07:22:20 2017
+57793217 main  
+Message: Error loading page
+
+
+Wed Apr 12 07:37:32 2017
+48786934 main  
+Message: Error loading page
+
+
+Wed Apr 12 07:40:37 2017
+25796161 main  
+Message: Error loading page
+
+
+Wed Apr 12 07:45:49 2017
+1000313630 main  
+Message: Error loading page
+
+
+Wed Apr 12 07:58:58 2017
+815490238 main  
+Message: Error loading page
+
+
+Wed Apr 12 07:59:52 2017
+818563460 main  
+Message: Error loading page
+
+
+Wed Apr 12 08:01:51 2017
+4430645 main  
+Message: Error loading page
+
+
+Wed Apr 12 08:04:46 2017
+143071959 main  
+Message: Error loading page
+
+
+Wed Apr 12 08:06:14 2017
+856570134 main  
+Message: Error loading page
+
+
+Wed Apr 12 08:06:59 2017
+9406269 main  
+Message: Error loading page
+
+
+Wed Apr 12 08:13:02 2017
+1479653 main  
+list index out of range
+
+Wed Apr 12 08:21:35 2017
+54532829 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Wed Apr 12 08:51:58 2017
+67945681 main  
+list index out of range
+
+Wed Apr 12 08:54:28 2017
+45192359 main  
+Message: Error loading page
+
+
+Wed Apr 12 08:57:02 2017
+32225306 main  
+Message: Error loading page
+
+
+Wed Apr 12 09:34:55 2017
+2511353 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Wed Apr 12 10:02:12 2017
+56061576 main  
+list index out of range
+
+Wed Apr 12 11:48:53 2017
+789461710 main  
+list index out of range
+
+Wed Apr 12 11:53:01 2017
+34645590 main  
+list index out of range
+
+Wed Apr 12 12:04:04 2017
+3592836 main  
+list index out of range
+
+Wed Apr 12 12:05:49 2017
+790647318 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Wed Apr 12 12:37:14 2017
+11649240 main  
+list index out of range
+
+Wed Apr 12 13:14:59 2017
+21623869 main  
+list index out of range
+
+Wed Apr 12 14:36:01 2017
+5806145 main  
+Message: Error loading page
+
+
+Wed Apr 12 14:47:58 2017
+8031469 main  
+list index out of range
+
+Wed Apr 12 14:51:06 2017
+950318514 main  
+list index out of range
+
+Wed Apr 12 15:38:11 2017
+51987494 main  
+list index out of range
+
+Wed Apr 12 15:39:20 2017
+27178515 main  
+list index out of range
+
+Wed Apr 12 15:45:07 2017
+1024269346 main  
+list index out of range
+
+Wed Apr 12 15:56:47 2017
+53989117 main  
+list index out of range
+
+Wed Apr 12 16:01:56 2017
+17597687 main  
+list index out of range
+
+Wed Apr 12 16:33:04 2017
+2188116 main  
+list index out of range
+
+Wed Apr 12 17:01:25 2017
+1277605 main  
+list index out of range
+
+Wed Apr 12 17:09:54 2017
+1090489560 main  
+list index out of range
+
+Wed Apr 12 17:31:31 2017
+4193799 main  
+Message: Error loading page
+
+
+Wed Apr 12 18:22:26 2017
+26158273 main  
+Message: Error loading page
+
+
+Wed Apr 12 19:39:45 2017
+28439176 main  
+invalid literal for int() with base 10: '</p'
+
+Wed Apr 12 19:45:20 2017
+286048998 main  
+list index out of range
+
+Wed Apr 12 20:33:52 2017
+28425285 main  
+list index out of range
+
+Wed Apr 12 21:25:17 2017
+33561225 main  
+list index out of range
+
+Wed Apr 12 22:20:51 2017
+7931407 main  
+list index out of range
+
+Wed Apr 12 23:23:00 2017
+23975408 main  
+list index out of range
+
+Thu Apr 13 00:31:51 2017
+1133496432 main  
+list index out of range
+
+Thu Apr 13 01:43:24 2017
+1140904703 main  
+list index out of range
+
+Thu Apr 13 01:52:15 2017
+36321529 main  
+list index out of range
+
+Thu Apr 13 02:16:26 2017
+815338799 main  
+list index out of range
+
+Thu Apr 13 02:21:46 2017
+22337634 main  
+list index out of range
+
+Thu Apr 13 02:23:35 2017
+850664267 main  
+list index out of range
+
+Thu Apr 13 02:28:48 2017
+1128063751 main  
+list index out of range
+
+Thu Apr 13 02:32:31 2017
+123103157 main  
+list index out of range
+
+Thu Apr 13 02:51:23 2017
+3599056 main  
+list index out of range
+
+Thu Apr 13 03:03:09 2017
+5368503 main  
+list index out of range
+
+Thu Apr 13 03:34:43 2017
+943367012 main  
+list index out of range
+
+Thu Apr 13 03:52:42 2017
+50766051 main  
+list index out of range
+
+Thu Apr 13 04:44:10 2017
+43754580 main  
+list index out of range
+
+Thu Apr 13 05:03:55 2017
+15664202 main  
+list index out of range
+
+Thu Apr 13 05:09:51 2017
+3993865 main  
+list index out of range
+
+Thu Apr 13 05:41:51 2017
+42953226 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Thu Apr 13 06:00:17 2017
+114889891 main  
+list index out of range
+
+Thu Apr 13 06:17:02 2017
+21500871 main  
+list index out of range
+
+Thu Apr 13 07:41:58 2017
+6263757 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Thu Apr 13 08:27:28 2017
+1152758 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Thu Apr 13 09:17:47 2017
+607402153 main  
+list index out of range
+
+Thu Apr 13 10:11:49 2017
+25322273 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Thu Apr 13 10:43:45 2017
+832324125 main  
+list index out of range
+
+Thu Apr 13 11:04:43 2017
+553684 main  
+list index out of range
+
+Thu Apr 13 11:25:36 2017
+24250731 main  
+list index out of range
+
+Thu Apr 13 11:31:06 2017
+3836 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Thu Apr 13 11:50:49 2017
+193464670 main  
+list index out of range
+
+Thu Apr 13 12:46:37 2017
+14533057 main  
+list index out of range
+
+Thu Apr 13 13:00:13 2017
+1037915328 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Thu Apr 13 13:09:26 2017
+39027719 main  
+list index out of range
+
+Thu Apr 13 13:15:59 2017
+4429691 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Thu Apr 13 13:47:58 2017
+988284253 main  
+list index out of range
+
+Thu Apr 13 14:23:30 2017
+797269 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Thu Apr 13 14:45:19 2017
+758120383 main  
+list index out of range
+
+Thu Apr 13 16:04:15 2017
+53402 main  
+list index out of range
+
+Thu Apr 13 17:24:47 2017
+320503 main  
+list index out of range
+
+Thu Apr 13 18:58:33 2017
+3810886 main  
+list index out of range
+
+Thu Apr 13 19:54:55 2017
+28446843 main  
+list index out of range
+
+Thu Apr 13 21:00:38 2017
+56855636 main  
+list index out of range
+
+Thu Apr 13 21:35:16 2017
+19462314 main  
+list index out of range
+
+Thu Apr 13 23:21:45 2017
+4071202 main  
+list index out of range
+
+Fri Apr 14 00:37:40 2017
+1167038592 main  
+list index out of range
+
+Fri Apr 14 01:34:01 2017
+16787 main  
+list index out of range
+
+Fri Apr 14 02:28:05 2017
+3679505 main  
+list index out of range
+
+Fri Apr 14 04:13:05 2017
+4420297 main  
+list index out of range
+
+Fri Apr 14 04:56:44 2017
+1069895930 main  
+list index out of range
+
+Fri Apr 14 05:26:35 2017
+448063 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Fri Apr 14 06:15:23 2017
+1020459043 main  
+list index out of range
+
+Fri Apr 14 06:39:20 2017
+8207044 main  
+list index out of range
+
+Fri Apr 14 07:20:10 2017
+811259521 main  
+list index out of range
+
+Fri Apr 14 07:22:19 2017
+778189961 main  
+list index out of range
+
+Fri Apr 14 08:04:02 2017
+179457968 main  
+list index out of range
+
+Fri Apr 14 08:14:23 2017
+4056260 main  
+list index out of range
+
+Fri Apr 14 09:49:34 2017
+40684315 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Fri Apr 14 09:51:36 2017
+4264114 main  
+list index out of range
+
+Fri Apr 14 10:23:52 2017
+757847775 main  
+list index out of range
+
+Fri Apr 14 10:35:34 2017
+191971388 main  
+list index out of range
+
+Fri Apr 14 12:04:04 2017
+94512565 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Fri Apr 14 13:15:15 2017
+59038858 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Fri Apr 14 13:29:14 2017
+7860188 main  
+list index out of range
+
+Fri Apr 14 13:40:22 2017
+690786806 main  
+list index out of range
+
+Fri Apr 14 14:09:04 2017
+6185387 main  
+list index out of range
+
+Fri Apr 14 14:13:24 2017
+10612048 main  
+list index out of range
+
+Fri Apr 14 14:17:36 2017
+452342 main  
+list index out of range
+
+Fri Apr 14 15:16:34 2017
+33380759 main  
+list index out of range
+
+Fri Apr 14 15:34:01 2017
+8739036 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Fri Apr 14 15:46:33 2017
+5846467 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Fri Apr 14 15:52:29 2017
+845117852 main  
+list index out of range
+
+Fri Apr 14 15:58:35 2017
+755564059 main  
+list index out of range
+
+Fri Apr 14 16:07:21 2017
+1798685 main  
+list index out of range
+
+Fri Apr 14 16:34:43 2017
+53650575 main  
+list index out of range
+
+Fri Apr 14 18:40:07 2017
+34349213 main  
+list index out of range
+
+Fri Apr 14 19:44:11 2017
+777896453 main  
+list index out of range
+
+Fri Apr 14 20:33:56 2017
+920764264 main  
+list index out of range
+
+Fri Apr 14 20:45:33 2017
+174095066 main  
+list index out of range
+
+Fri Apr 14 21:02:20 2017
+66176 main  
+list index out of range
+
+Fri Apr 14 21:21:00 2017
+28149704 main  
+list index out of range
+
+Fri Apr 14 21:31:56 2017
+763330999 main  
+list index out of range
+
+Fri Apr 14 22:35:34 2017
+886994 main  
+list index out of range
+
+Fri Apr 14 22:59:16 2017
+14786696 main  
+list index out of range
+
+Fri Apr 14 23:29:26 2017
+2997407 main  
+list index out of range
+
+Sat Apr 15 00:40:48 2017
+8527970 main  
+list index out of range
+
+Sat Apr 15 01:05:02 2017
+985067726 main  
+list index out of range
+
+Sat Apr 15 03:43:38 2017
+20823777 main  
+Message: Error loading page
+
+
+Sat Apr 15 04:44:32 2017
+85345266 main  
+Message: Error loading page
+
+
+Sat Apr 15 04:53:59 2017
+34670691 main  
+list index out of range
+
+Sat Apr 15 05:57:21 2017
+80366557 main  
+list index out of range
+
+Sat Apr 15 05:59:20 2017
+107832517 main  
+list index out of range
+
+Sat Apr 15 06:00:33 2017
+32352108 main  
+list index out of range
+
+Sat Apr 15 06:07:33 2017
+18668451 main  
+Message: Error loading page
+
+
+Sat Apr 15 06:09:35 2017
+7011303 main  
+Message: Error loading page
+
+
+Sat Apr 15 06:33:38 2017
+795752080 main  
+list index out of range
+
+Sat Apr 15 06:46:01 2017
+6365595 main  
+list index out of range
+
+Sat Apr 15 06:49:17 2017
+4486690 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Sat Apr 15 07:35:28 2017
+56653631 main  
+list index out of range
+
+Sat Apr 15 08:03:10 2017
+750756573 main  
+list index out of range
+
+Sat Apr 15 08:26:16 2017
+87708837 main  
+Message: Error loading page
+
+
+Sat Apr 15 08:36:41 2017
+2017550 main  
+Message: Error loading page
+
+
+Sat Apr 15 08:37:21 2017
+17041359 main  
+Message: Error loading page
+
+
+Sat Apr 15 08:44:08 2017
+54161396 main  
+Message: Error loading page
+
+
+Sat Apr 15 08:44:29 2017
+769180908 main  
+Message: Error loading page
+
+
+Sat Apr 15 09:19:05 2017
+180828368 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Sat Apr 15 09:39:24 2017
+458580 main  
+list index out of range
+
+Sat Apr 15 09:53:29 2017
+4622945 main  
+list index out of range
+
+Sat Apr 15 10:10:41 2017
+5970683 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Sun Apr 16 00:54:17 2017
+895571489 main  
+list index out of range
+
+Sun Apr 16 01:06:08 2017
+23074391 main  
+list index out of range
+
+Sun Apr 16 01:12:24 2017
+772763396 main  
+list index out of range
+
+Sun Apr 16 01:29:43 2017
+377547 main  
+list index out of range
+
+Sun Apr 16 01:32:28 2017
+13811088 main  
+list index out of range
+
+Sun Apr 16 02:28:47 2017
+154077357 main  
+list index out of range
+
+Sun Apr 16 02:38:18 2017
+759440178 main  
+list index out of range
+
+Sun Apr 16 03:03:46 2017
+104372411 main  
+list index out of range
+
+Sun Apr 16 03:35:29 2017
+33790147 main  
+Message: Error loading page
+
+
+Sun Apr 16 03:52:25 2017
+27606386 main  
+Message: Error loading page
+
+
+Sun Apr 16 03:59:02 2017
+6379633 main  
+Message: Error loading page
+
+
+Sun Apr 16 04:05:33 2017
+23132823 main  
+Message: Error loading page
+
+
+Sun Apr 16 04:16:45 2017
+53852568 main  
+Message: Error loading page
+
+
+Sun Apr 16 04:17:55 2017
+193127430 main  
+Message: Error loading page
+
+
+Sun Apr 16 04:36:06 2017
+113155 main  
+Message: Error loading page
+
+
+Sun Apr 16 04:40:08 2017
+35782258 main  
+Message: Error loading page
+
+
+Sun Apr 16 04:47:33 2017
+43161959 main  
+Message: Error loading page
+
+
+Sun Apr 16 04:49:42 2017
+22294192 main  
+Message: Error loading page
+
+
+Sun Apr 16 05:12:12 2017
+2834069 main  
+Message: Error loading page
+
+
+Sun Apr 16 05:17:16 2017
+892493959 main  
+Message: Error loading page
+
+
+Sun Apr 16 05:18:01 2017
+44041921 main  
+Message: Error loading page
+
+
+Sun Apr 16 05:24:19 2017
+33318673 main  
+Message: Error loading page
+
+
+Sun Apr 16 05:48:41 2017
+435166222 main  
+Message: Error loading page
+
+
+Sun Apr 16 05:49:30 2017
+4919266 main  
+Message: Error loading page
+
+
+Sun Apr 16 05:50:22 2017
+53774603 main  
+Message: Error loading page
+
+
+Sun Apr 16 05:56:42 2017
+48890148 main  
+Message: Error loading page
+
+
+Sun Apr 16 05:57:20 2017
+4961292 main  
+Message: Error loading page
+
+
+Sun Apr 16 06:22:04 2017
+11685110 main  
+Message: Error loading page
+
+
+Sun Apr 16 06:24:24 2017
+2772304 main  
+Message: Error loading page
+
+
+Sun Apr 16 06:28:41 2017
+63899349 main  
+Message: Error loading page
+
+
+Sun Apr 16 06:34:46 2017
+838921635 main  
+list index out of range
+
+Sun Apr 16 07:11:01 2017
+38505696 main  
+Message: Error loading page
+
+
+Sun Apr 16 07:25:08 2017
+18606038 main  
+list index out of range
+
+Sun Apr 16 07:32:30 2017
+23380 main  
+Message: Error loading page
+
+
+Sun Apr 16 07:34:42 2017
+5340247 main  
+Message: Error loading page
+
+
+Sun Apr 16 07:44:02 2017
+1911058 main  
+Message: Error loading page
+
+
+Sun Apr 16 07:45:24 2017
+860876615 main  
+Message: Error loading page
+
+
+Sun Apr 16 07:45:44 2017
+13794114 main  
+Message: Error loading page
+
+
+Sun Apr 16 07:46:14 2017
+31724258 main  
+Message: Error loading page
+
+
+Sun Apr 16 07:51:28 2017
+1845345 main  
+Message: Error loading page
+
+
+Sun Apr 16 07:52:21 2017
+103613422 main  
+Message: Error loading page
+
+
+Sun Apr 16 07:54:29 2017
+32451764 main  
+Message: Error loading page
+
+
+Sun Apr 16 08:15:17 2017
+2518988 main  
+Message: Error loading page
+
+
+Sun Apr 16 08:50:23 2017
+7122918 main  
+'latin-1' codec can't encode characters in position 1-3: ordinal not in range(256)
+
+Sun Apr 16 09:10:47 2017
+52414521 main  
+list index out of range
+
+Sun Apr 16 09:23:59 2017
+35690208 main  
+list index out of range
+
+Sun Apr 16 09:35:24 2017
+1158470935 main  
+list index out of range
+
+Sun Apr 16 09:49:55 2017
+2069180 main  
+Message: Error loading page
+
+
+Sun Apr 16 09:51:10 2017
+532388 main  
+Message: Error loading page
+
+
+Sun Apr 16 09:52:14 2017
+871690697 main  
+list index out of range
+
+Sun Apr 16 09:53:26 2017
+48686068 main  
+Message: Error loading page
+
+
+Sun Apr 16 09:54:02 2017
+5629180 main  
+Message: Error loading page
+
+
+Sun Apr 16 10:17:59 2017
+2781833 main  
+Message: Error loading page
+
+
+Sun Apr 16 10:21:43 2017
+16987087 main  
+Message: Error loading page
+
+
+Sun Apr 16 10:23:57 2017
+595426 main  
+Message: Error loading page
+
+
+Sun Apr 16 10:36:40 2017
+12969593 main  
+Message: Error loading page
+
+
+Sun Apr 16 10:51:01 2017
+18688 main  
+Message: Error loading page
+
+
+Sun Apr 16 10:51:24 2017
+21630870 main  
+Message: Error loading page
+
+
+Sun Apr 16 11:03:33 2017
+13065717 main  
+Message: Error loading page
+
+
+Sun Apr 16 11:18:01 2017
+27560117 main  
+Message: Error loading page
+
+
+Sun Apr 16 11:31:15 2017
+26322109 main  
+Message: Error loading page
+
+
+Sun Apr 16 11:42:40 2017
+94653574 main  
+Message: Error loading page
+
+
+Sun Apr 16 11:46:31 2017
+54677769 main  
+Message: Error loading page
+
+
+Sun Apr 16 11:58:33 2017
+1378495 main  
+Message: Error loading page
+
+
+Sun Apr 16 12:02:10 2017
+27992615 main  
+Message: Error loading page
+
+
+Sun Apr 16 12:04:08 2017
+8817150 main  
+Message: Error loading page
+
+
+Sun Apr 16 12:07:21 2017
+4511333 main  
+Message: Error loading page
+
+
