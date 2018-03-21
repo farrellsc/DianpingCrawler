@@ -6,7 +6,8 @@ import time
 def toJSON(elements):
     count = min(len(elements[0]),len(elements[1]),len(elements[2]),len(elements[3]))
     print count
-    if count == 0: return '{\"count\":0, \"checkins\":[]}'
+    if count == 0:
+        return '{\"count\":0, \"checkins\":[]}'
     result = "{\n"
     result = result + "    \"count\": " + str(count) + ",\n"
     result = result + "    \"checkins\": \n    [\n"
